@@ -17,7 +17,6 @@
 
 # Installation
 
-```sh
 cd $HOME
 
 git clone https://github.com/PasdarTeam/BulletProofCli.git
@@ -29,9 +28,10 @@ chmod +x BomBus.sh
 ./BomBus.sh install
 
 ./BomBus.sh
-### One command
-To install everything in one command, use:
-```sh
+
+
+# One command
+
 cd $HOME && git clone https://github.com/PasdarTeam/BulletProofCli.git && cd BulletProofCli && chmod +x BomBus.sh && ./BomBus.sh install && ./BomBus.sh
 ```
 
