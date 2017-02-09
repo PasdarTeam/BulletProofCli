@@ -24,17 +24,17 @@ git clone https://github.com/PasdarTeam/BulletProofCli.git
 
 cd BulletProofCli
 
-chmod +x BomBus.sh
+chmod +x bullet.sh
 
-./BomBus.sh install
+./bullet.sh install
 
-./BomBus.sh
+./bullet.sh
 
 ```
 # One command
 
 ```sh
-cd $HOME && git clone https://github.com/PasdarTeam/BulletProofCli.git && cd BulletProofCli && chmod +x BomBus.sh && ./BomBus.sh install && ./BomBus.sh
+cd $HOME && git clone https://github.com/PasdarTeam/BulletProofCli.git && cd BulletProofCli && chmod +x bullet.sh && ./bullet.sh install && ./bullet.sh
 ```
 
 * * *
