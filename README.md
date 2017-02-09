@@ -30,7 +30,7 @@ chmod +x BomBus.sh
 
 ./BomBus.sh
 
-
+```
 # One command
 
 ```sh
