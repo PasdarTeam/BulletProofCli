@@ -32,7 +32,7 @@ if [ ! -f ./tg/tgcli ]; then
 fi
 
    echo -e "\033[38;5;208m"
-   echo -e "     > by @BulletProofCH Source :D                        "
+   echo -e "     >Edited by @MrMahdi313 On @BulletProofCH Team :D                        "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
    ./tg/tgcli -s ./bot/bot.lua -l 1 -E $@
